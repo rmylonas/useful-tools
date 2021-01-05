@@ -5,3 +5,4 @@
 [submodule "great-style"]
 	path = great-style
 	url = https://github.com/rmylonas/great-style.git
+	branch = main
