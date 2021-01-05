@@ -1,3 +1,6 @@
 [submodule "glitter-cursor"]
 	path = glitter-cursor
 	url = https://github.com/sibgit/glitter-cursor.git
+[submodule "great-style"]
+	path = great-style
+	url = https://github.com/rmylonas/great-style.git
